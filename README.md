@@ -1,9 +1,10 @@
 # React + Vite
 
-Proyecto de Práctica
--React
--Sass
-Pókemons cards es proyecto que muestra tarjetas con los distintos pokemones y en cada caso su evolución.
+#Proyecto de Práctica
+ -React
+ -Sass
+ 
+# Pókemons cards es proyecto que muestra tarjetas con los distintos pokemones y en cada caso su evolución.
 
 
 
